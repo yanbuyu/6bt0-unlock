@@ -10,6 +10,7 @@
 // @downloadURL  https://raw.githubusercontent.com/Yanqing797/6bt0-unlock/main/userscript/6bt0-vip.user.js
 // @license      MIT
 // @match        *://*.6bt0.com/*
+// @match        *://web5.mukaku.com/*
 // @include      /^https?:\/\/([\w-]+\.)?([0-9]bt0)\.[a-z]{2,}\//
 // @match        *://*.butailing.com/*
 // @grant        none
